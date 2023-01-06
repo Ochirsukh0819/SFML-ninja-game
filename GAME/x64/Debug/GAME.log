@@ -1,0 +1,9 @@
+﻿  GAME.cpp
+C:\Users\user\source\repos\GAME\GAME\GAME.cpp(120,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\GAME\GAME\GAME.cpp(208,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\GAME\GAME\GAME.cpp(294,119): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  GAME.vcxproj -> C:\Users\user\source\repos\GAME\x64\Debug\GAME.exe
